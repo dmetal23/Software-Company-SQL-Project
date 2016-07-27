@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\Comp440_Project\Comp440_Project\bin\Release\Comp440_Project.dacpac
+C:\Users\Daniel\Desktop\Comp440_Project\Comp440_Project\bin\Release\Comp440_Project.dll
+C:\Users\Daniel\Desktop\Comp440_Project\Comp440_Project\bin\Release\Comp440_Project.pdb
+C:\Users\Daniel\Desktop\Comp440_Project\Comp440_Project\obj\Release\Model.xml
+C:\Users\Daniel\Desktop\Comp440_Project\Comp440_Project\obj\Release\refactor.xml
+C:\Users\Daniel\Desktop\Comp440_Project\Comp440_Project\obj\Release\postdeploy.sql
+C:\Users\Daniel\Desktop\Comp440_Project\Comp440_Project\obj\Release\predeploy.sql
+C:\Users\Daniel\Desktop\Comp440_Project\Comp440_Project\obj\Release\Comp440_Project.dll
+C:\Users\Daniel\Desktop\Comp440_Project\Comp440_Project\obj\Release\Comp440_Project.pdb

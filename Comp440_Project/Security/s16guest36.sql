@@ -1,0 +1,2 @@
+﻿CREATE USER [s16guest36] FOR LOGIN [s16guest36];
+
